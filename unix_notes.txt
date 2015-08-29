@@ -1,5 +1,6 @@
 # this is escaped out
 # subl .
+#hidden .git folder tracks all changes on files that have been added.
 history | less
 history
 ls -a
