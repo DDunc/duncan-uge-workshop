@@ -1,0 +1,563 @@
+# this is escaped out
+# subl .
+history | less
+history
+ls -a
+ls
+cd Applications/
+which Sublime \ Text.app
+cd
+cd Library
+cd Shared
+cd ..
+subl .
+subl
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cd Applications
+Applications
+subl
+ls ~
+cd ../images
+cd fonts
+cd Sunk-master/
+cd Documents
+Documents
+cd ../..
+pwd
+cd Js\ Koans/
+ls -l
+cd Clade
+cd ~
+ls -S
+man ls
+man help
+ls -i
+ls -C
+ls -rlt
+ls -rt
+ls -r
+ls -t
+cd downloads
+cd ~/downloads
+cd /downloads
+cd /Downloads
+/downloads
+git merge --strategy=ours master
+open index.html
+git merge rollback master
+git checkout master
+git status
+git commit -m "revert to old version"
+git add index.html
+subl index.html
+git push origin rollback
+git add .
+git checkout rollback
+git push origin master
+git commit index.html
+git commit
+git checkout -b rollback
+git revert --no-commit 257331e..HEAD
+git revert
+git revert --continue
+git revert --no-commit
+git checkout -f 257331e
+git checkout 257331e
+get checkout 257331e
+git checkout a1e8fb5
+git log --oneline
+git checkout index.html
+cd DDunc.github.io/
+cd desktop
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+info
+brew info
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+open library2.js
+open Sublime\ Text.app
+~/Duncan
+cd/
+/cd
+cd mac hd
+open "Sublime Text.app"
+open Sublime Text.app
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+open /Applications/Sublimels
+open /Applications/Sublime\ Text\ 2.app/
+node library.js
+node web_server.js
+cd CFiles
+node start web_server.js
+cd nodeLearning
+cd Desktop
+node
+node start
+gut-feeling
+.. cd
+cd gut-feeling
+cd nodelearning
+npm start
+nodeLearning
+cd directory
+ls js
+git pull origin master
+clear
+cd/desktop
+//cd gut-feeling
+/cd gut-feeling
+node load.js
+python -m SimpleHTTPServer
+python -m http.server
+git remote add origin https://github.com/ddunc/js-course
+git remote rm origin
+git checkout checkers-start
+cd checkers-start
+git clone https://github.com/makersquare/js-course checkers-start
+git clone https://site-name.dev.squarespace.com/template.git
+node index3.js
+git push 
+git commit -m "merge cladem and claderep"
+git add cladem.js
+add cladem.js
+npm install node-localwiki-client
+npm install tape
+npm install --save localwiki-client
+npm install --save local-wiki-client
+git init
+cd ~/SEALWAPI
+mkdir ~/SEALWAPI
+git push
+git commit -m "Add Clade Add Claderep"
+git add claderep.js
+git config --global push.default matching
+git config --global.push.default matching
+git remote -v
+git remote add origin https://github.com/DDunc/Clade.git
+git commit -m "Add Readme.txt"
+git add Readme.txt
+touch Readme.txt
+cd ~/Clade
+mkdir ~/Clade
+mkdir -/MyProject
+killall SystemUIServer
+defaults write com.apple.screencapture location ~/Screenshots
+npm install needle
+npm install libxmljs
+npm install libxlmjs
+npm install osmosis
+cd /
+home
+//cd
+cd..
+ npm install parse-english
+$ npm install parse-english
+sudo  npm install unirest
+sudo $ npm install unirest
+ npm install unirest
+$ npm install unirest
+ npm install -g rxjs
+cd //
+  npm install rxjs
+node scrape1.js
+node scrape1
+node index.js
+node scraper1.js
+ npm install jsdom@3
+$ npm install jsdom@3
+cd ~/requestAPI/
+cd ~/requestAPI/’
+‘cd ~/requestAPI/’
+cd[requestAPI]
+cd requestAPI
+//requestAPI/
+/requestAPI/
+/Users/Duncan/requestAPI/
+cd //requestAPI
+/requestAPI
+// cd
+//
+npm install jsdom
+npm install scraper
+$ npm install scraper
+npm install scraper-js
+ npm install wikipedia-js
+$ npm install wikipedia-js
+npm install cheerio
+npm install nodemailer
+npm install jquery --save
+npm install request -save
+subl index.js
+git -init
+npm init
+mkdir requestAPI
+git commit -m "First Commit"
+git remote add origin https://github.com/DDunc/Sunk.git
+cd Sunk
+/Sunk
+/sunk
+cd ~/Desktop
+/desktop
+sudo chflags nohidden ~/Library
+chflags nohidden ~/Library
+sudo easy_install thefuck
+sudo npm install amok -g
+npm install amok -g
+sudo npm install --global amok
+npm install --global amok
+map(myArr, increment);
+}
+ct(arr[i], i, arr);
+for (i=0; i < arr.length; i++){
+var i;
+function forEach(arr, funct){
+return val + 1;
+function increment (val){
+return newarr;
+console.log(newarr);
+});
+ewarr.push(funct(arr[i]));
+;
+forEach(arr, function(each, i, arr){
+newarr.push(cur);
+var cur = funct(arr[0]);
+var newarr = [];
+function map (arr, funct){
+var myArr = [15, 2, 16, 22000, 1, 0, 55, 23];
+sudo 
+/bootstrap
+grunt test
+sudo npm install -g grunt-cli
+sudo npm install -g grunt-cli.
+-sudo npm install -g grunt-cli.
+npm install -g grunt-cli
+npm install -g grunt-cli.
+$ npm install bootstrap
+git commit raftexperimental.js -m "Get and Set variant"
+git add raftexperimental.js
+git commit -m "Getter and setter version added"
+git add public/raftexperimental.js
+git commit m - "Getter Setter Version"
+ git commit --amend
+cd rafttimes
+rafttimes
+git log
+cd public
+cd../
+add raftexperimental.js
+cd..//
+git add public/rafexperimental.js
+git add public/rafexperiment.js
+cd rafttimes/public
+cd ../
+rm request
+cat request
+git checkout HEAD
+git checkout 2d3382252b8c4c908817333e6e46bf3bd9752d6c
+gitlog
+git push origin master --force
+git commit -m "Servered."
+git add . -u
+../cd
+cat raft.js | head -10
+cat raft.js
+node index
+npm run
+npm install express
+git commit -m "Added dependencies"
+git commmit -m "Added dependencies"
+git add package.json
+git commit -m "Directory rearrangement."
+git add public/raftupdate.js -A
+git add public/raftupdate.js
+status
+ls -t | less
+ls -trl
+ls -tr
+ls -t
+ls moving_around.txt
+ls
+history > moving_around.txt
+history | less
+history
+ls -a
+cd Applications/
+which Sublime \ Text.app
+cd
+cd Library
+cd Shared
+cd ..
+subl .
+subl 
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cd Applications
+Applications
+subl
+ls ~
+cd ../images
+cd fonts
+cd Sunk-master/
+cd Documents
+Documents
+cd ../..
+pwd
+cd Js\ Koans/
+ls -l
+cd Clade
+cd ~
+ls -S
+man ls
+man help
+ls -i
+ls -C
+ls -rlt
+ls -rt
+ls -r
+cd downloads
+cd ~/downloads
+cd /downloads
+cd /Downloads
+/downloads
+git merge --strategy=ours master
+open index.html
+git merge rollback master
+git checkout master
+git status
+git commit -m "revert to old version"
+git add index.html
+subl index.html
+git push origin rollback
+git add .
+git checkout rollback
+git push origin master
+git commit index.html
+git commit
+git checkout -b rollback
+git revert --no-commit 257331e..HEAD
+git revert
+git revert --continue
+git revert --no-commit
+git checkout -f 257331e
+git checkout 257331e
+get checkout 257331e
+git checkout a1e8fb5
+git log --oneline
+git checkout index.html
+cd DDunc.github.io/
+cd desktop
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+info
+brew info
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+open library2.js
+open Sublime\ Text.app
+~/Duncan
+cd/
+/cd
+cd mac hd
+open "Sublime Text.app"
+open Sublime Text.app
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+open /Applications/Sublimels
+open /Applications/Sublime\ Text\ 2.app/
+node library.js
+node web_server.js
+cd CFiles
+node start web_server.js
+cd nodeLearning
+cd Desktop
+node
+node start
+gut-feeling
+.. cd
+cd gut-feeling
+cd nodelearning
+npm start
+nodeLearning
+cd directory
+ls js
+git pull origin master
+clear
+cd/desktop
+//cd gut-feeling
+/cd gut-feeling
+node load.js
+python -m SimpleHTTPServer
+python -m http.server
+git remote add origin https://github.com/ddunc/js-course
+git remote rm origin
+git checkout checkers-start
+cd checkers-start
+git clone https://github.com/makersquare/js-course checkers-start
+git clone https://site-name.dev.squarespace.com/template.git
+node index3.js
+git push 
+git commit -m "merge cladem and claderep"
+git add cladem.js
+add cladem.js
+npm install node-localwiki-client
+npm install tape
+npm install --save localwiki-client
+npm install --save local-wiki-client
+git init
+cd ~/SEALWAPI
+mkdir ~/SEALWAPI
+git push
+git commit -m "Add Clade Add Claderep"
+git add claderep.js
+git config --global push.default matching
+git config --global.push.default matching
+git remote -v
+git remote add origin https://github.com/DDunc/Clade.git
+git commit -m "Add Readme.txt"
+git add Readme.txt
+touch Readme.txt
+cd ~/Clade
+mkdir ~/Clade
+mkdir -/MyProject
+killall SystemUIServer
+defaults write com.apple.screencapture location ~/Screenshots
+npm install needle
+npm install libxmljs
+npm install libxlmjs
+npm install osmosis
+cd /
+home
+//cd
+cd..
+ npm install parse-english
+$ npm install parse-english
+sudo  npm install unirest
+sudo $ npm install unirest
+ npm install unirest
+$ npm install unirest
+ npm install -g rxjs
+cd //
+  npm install rxjs
+node scrape1.js
+node scrape1
+node index.js
+node scraper1.js
+ npm install jsdom@3
+$ npm install jsdom@3
+cd ~/requestAPI/
+cd ~/requestAPI/’
+‘cd ~/requestAPI/’
+cd[requestAPI]
+cd requestAPI
+//requestAPI/
+/requestAPI/
+/Users/Duncan/requestAPI/
+cd //requestAPI
+/requestAPI
+// cd
+//
+npm install jsdom
+npm install scraper
+$ npm install scraper
+npm install scraper-js
+ npm install wikipedia-js
+$ npm install wikipedia-js
+npm install cheerio
+npm install nodemailer
+npm install jquery --save
+npm install request -save
+subl index.js
+git -init
+npm init
+mkdir requestAPI
+git commit -m "First Commit"
+git remote add origin https://github.com/DDunc/Sunk.git
+cd Sunk
+/Sunk
+/sunk
+cd ~/Desktop
+/desktop
+sudo chflags nohidden ~/Library
+chflags nohidden ~/Library
+sudo easy_install thefuck
+sudo npm install amok -g
+npm install amok -g
+sudo npm install --global amok
+npm install --global amok
+map(myArr, increment);
+}
+ct(arr[i], i, arr);
+for (i=0; i < arr.length; i++){
+var i;
+function forEach(arr, funct){
+return val + 1;
+function increment (val){
+return newarr;
+console.log(newarr);
+});
+ewarr.push(funct(arr[i]));
+;
+forEach(arr, function(each, i, arr){
+newarr.push(cur);
+var cur = funct(arr[0]);
+var newarr = [];
+function map (arr, funct){
+var myArr = [15, 2, 16, 22000, 1, 0, 55, 23];
+sudo 
+/bootstrap
+grunt test
+sudo npm install -g grunt-cli
+sudo npm install -g grunt-cli.
+-sudo npm install -g grunt-cli.
+npm install -g grunt-cli
+npm install -g grunt-cli.
+$ npm install bootstrap
+git commit raftexperimental.js -m "Get and Set variant"
+git add raftexperimental.js
+git commit -m "Getter and setter version added"
+git add public/raftexperimental.js
+git commit m - "Getter Setter Version"
+ git commit --amend
+cd rafttimes
+rafttimes
+git log
+cd public
+cd../
+add raftexperimental.js
+cd..//
+git add public/rafexperimental.js
+git add public/rafexperiment.js
+cd rafttimes/public
+cd ../
+rm request
+cat request
+git checkout HEAD
+git checkout 2d3382252b8c4c908817333e6e46bf3bd9752d6c
+gitlog
+git push origin master --force
+git commit -m "Servered."
+git add . -u
+../cd
+cat raft.js | head -10
+cat raft.js
+node index
+npm run
+npm install express
+git commit -m "Added dependencies"
+git commmit -m "Added dependencies"
+git add package.json
+git commit -m "Directory rearrangement."
+git add public/raftupdate.js -A
+git add public/raftupdate.js
+status
