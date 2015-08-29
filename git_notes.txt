@@ -1,0 +1,47 @@
+unix commands
+touch
+
+THE GIT CYCLE
+
+git init
+git add
+git status
+git commit -m "message text"
+git log
+git branch foo (makes new branch called foo)
+git checkout blah (moves to branch foo)
+
+git remote commands
+
+git remote add origin git@github.com:DDunc/duncan-uge-workshop.git (from github, ssh)
+
+git remote -v  (example of what it should log:
+origin git@github.com:DDunc/duncan-uge-workshop.git (fetch)
+origin	git@github.com:DDunc/duncan-uge-workshop.git (push))
+
+git push -u origin master (origin is short for git@github.com:DDunc/duncan-uge-workshop.git, master is where to push to)
+
+(example of what it should log:
+Counting objects: 6, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (6/6), 2.56 KiB | 0 bytes/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+To git@github.com:DDunc/duncan-uge-workshop.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.)
+
+And for the git-notes branch...
+
+git push -u origin git-notes (push all tracked changes to the git-notes branch in the git@github.com:DDunc/duncan-uge-workshop.git repo, which is origin)
+
+(example of what it should log:
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 361 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@github.com:DDunc/duncan-uge-workshop.git
+ * [new branch]      git-notes -> git-notes
+Branch git-notes set up to track remote branch git-notes from origin.)
+
